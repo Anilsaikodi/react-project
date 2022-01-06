@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 2rem;
+}
+
+button {
+  margin: 2rem 0;
+  margin-left: 1250px;
+  padding: 1rem 2rem;
+  width: 200px;
+  cursor: pointer;
+  font-size:large;
+  font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+  height:10%;
+  width:20%;
+}
+h2{
+  text-align: right;
+}
+h3{
+  text-align: right;
+}
+.name{
+  margin-left: 1250px;
+}
+.email{
+  margin-left: 1250px;
+}
